@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Misael Lopez Ortiz",
+        "razonSocial": "MLO SA de CV",
+        "direccion": "Playa del Carmen, QROO"
+    },
+    {
+        "id": 2,
+        "nombre": "Ada Wong",
+        "razonSocial": "AW SA de CV",
+        "direccion": "Tokio, Japon"
+    },
+    {
+        "id": 3,
+        "nombre": "Jill Valentine",
+        "razonSocial": "JV SA de CV",
+        "direccion": "Racoon City, USA"
+    },
+    {
+        "id": 4,
+        "nombre": "Rebeca Chambers",
+        "razonSocial": "RC SA de CV",
+        "direccion": "Racoon City, USA"
+    },
+    {
+        "id": 5,
+        "nombre": "Maria Ortiz",
+        "razonSocial": "MO SA de CV",
+        "direccion": "Playa del Carmen, QROO"
+    },
+    {
+        "id": 6,
+        "nombre": "Juanito Perez",
+        "razonSocial": "JP SA de CV",
+        "direccion": "Playa del Carmen, QROO"
+    },
+    {
+        "id": 7,
+        "nombre": "Adrian Hernandez",
+        "razonSocial": "AH SA de CV",
+        "direccion": "Playa del Carmen, QROO"
+    },
+    {
+        "id": 8,
+        "nombre": "Sandra Ortiz Victorino",
+        "razonSocial": "SOV SA de CV",
+        "direccion": "Ecatepec, MEX"
+    },
+    {
+        "id": 9,
+        "nombre": "Martin Lopez Aguilar",
+        "razonSocial": "MLA SA de CV",
+        "direccion": "Ecatepec, MEX"
+    },
+    {
+        "id": 10,
+        "nombre": "Daysi Vanessa",
+        "razonSocial": "DV SA de CV",
+        "direccion": "Ecatepec, MEX"
+    },
+    {
+        "id": 11,
+        "nombre": "Judith Lopez",
+        "razonSocial": "JL SA de CV",
+        "direccion": "Ecatepec, MEX"
+    },
+    {
+        "id": 12,
+        "nombre": "Raul Sanchez",
+        "razonSocial": "RS SA de CV",
+        "direccion": "Playa del Carmen, QROO"
+    }
+]
